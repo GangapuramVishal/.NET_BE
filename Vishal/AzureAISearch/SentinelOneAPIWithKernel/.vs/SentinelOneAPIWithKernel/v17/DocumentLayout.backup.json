@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\SentinelOneAPIWithKernel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BCF7C8-3AAD-4B50-A87A-743C8B70C2BB}|SentinelOneAPIWithKernel.csproj|c:\\interns_repo\\interns-be\\vishal\\azureaisearch\\sentineloneapiwithkernel\\plugins\\sentineloneplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BCF7C8-3AAD-4B50-A87A-743C8B70C2BB}|SentinelOneAPIWithKernel.csproj|solutionrelative:plugins\\sentineloneplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BCF7C8-3AAD-4B50-A87A-743C8B70C2BB}|SentinelOneAPIWithKernel.csproj|c:\\interns_repo\\interns-be\\vishal\\azureaisearch\\sentineloneapiwithkernel\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BCF7C8-3AAD-4B50-A87A-743C8B70C2BB}|SentinelOneAPIWithKernel.csproj|solutionrelative:controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BCF7C8-3AAD-4B50-A87A-743C8B70C2BB}|SentinelOneAPIWithKernel.csproj|c:\\interns_repo\\interns-be\\vishal\\azureaisearch\\sentineloneapiwithkernel\\services\\ai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BCF7C8-3AAD-4B50-A87A-743C8B70C2BB}|SentinelOneAPIWithKernel.csproj|solutionrelative:services\\ai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BCF7C8-3AAD-4B50-A87A-743C8B70C2BB}|SentinelOneAPIWithKernel.csproj|c:\\interns_repo\\interns-be\\vishal\\azureaisearch\\sentineloneapiwithkernel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BCF7C8-3AAD-4B50-A87A-743C8B70C2BB}|SentinelOneAPIWithKernel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BCF7C8-3AAD-4B50-A87A-743C8B70C2BB}|SentinelOneAPIWithKernel.csproj|c:\\interns_repo\\interns-be\\vishal\\azureaisearch\\sentineloneapiwithkernel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6BCF7C8-3AAD-4B50-A87A-743C8B70C2BB}|SentinelOneAPIWithKernel.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BCF7C8-3AAD-4B50-A87A-743C8B70C2BB}|SentinelOneAPIWithKernel.csproj|c:\\interns_repo\\interns-be\\vishal\\azureaisearch\\sentineloneapiwithkernel\\prompthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BCF7C8-3AAD-4B50-A87A-743C8B70C2BB}|SentinelOneAPIWithKernel.csproj|solutionrelative:prompthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SentinelOnePlugin.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\SentinelOneAPIWithKernel\\Plugins\\SentinelOnePlugin.cs",
+              "RelativeDocumentMoniker": "Plugins\\SentinelOnePlugin.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\SentinelOneAPIWithKernel\\Plugins\\SentinelOnePlugin.cs",
+              "RelativeToolTip": "Plugins\\SentinelOnePlugin.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:22:54.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AiController.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\SentinelOneAPIWithKernel\\Controllers\\AiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AiController.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\SentinelOneAPIWithKernel\\Controllers\\AiController.cs",
+              "RelativeToolTip": "Controllers\\AiController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:25:43.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ai2.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\SentinelOneAPIWithKernel\\Services\\Ai2.cs",
+              "RelativeDocumentMoniker": "Services\\Ai2.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\SentinelOneAPIWithKernel\\Services\\Ai2.cs",
+              "RelativeToolTip": "Services\\Ai2.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:04:37.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\SentinelOneAPIWithKernel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\SentinelOneAPIWithKernel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:44:04.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\SentinelOneAPIWithKernel\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\SentinelOneAPIWithKernel\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T09:04:48.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PromptHelper.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\SentinelOneAPIWithKernel\\PromptHelper.cs",
+              "RelativeDocumentMoniker": "PromptHelper.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\SentinelOneAPIWithKernel\\PromptHelper.cs",
+              "RelativeToolTip": "PromptHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:24:13.007Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 150,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

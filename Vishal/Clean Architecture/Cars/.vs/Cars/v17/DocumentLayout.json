@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Clean Architecture\\Cars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB70257-22E6-4B89-8275-1E5D2215F186}|Application\\Application.csproj|c:\\interns_repo\\interns-be\\vishal\\clean architecture\\cars\\application\\features\\cars\\commands\\createcarrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB70257-22E6-4B89-8275-1E5D2215F186}|Application\\Application.csproj|solutionrelative:application\\features\\cars\\commands\\createcarrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F0A30-26C7-43CB-84C8-4FADDB254658}|WebApi\\WebApi.csproj|c:\\interns_repo\\interns-be\\vishal\\clean architecture\\cars\\webapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F0A30-26C7-43CB-84C8-4FADDB254658}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Clean Architecture\\Cars\\WebApi\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Clean Architecture\\Cars\\WebApi\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\CarsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:33:55.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateCarRequest.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Clean Architecture\\Cars\\Application\\Features\\Cars\\Commands\\CreateCarRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Cars\\Commands\\CreateCarRequest.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Clean Architecture\\Cars\\Application\\Features\\Cars\\Commands\\CreateCarRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Cars\\Commands\\CreateCarRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:28:41.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

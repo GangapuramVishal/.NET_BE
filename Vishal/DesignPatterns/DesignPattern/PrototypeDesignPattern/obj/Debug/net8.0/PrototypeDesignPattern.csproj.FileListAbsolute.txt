@@ -1,0 +1,15 @@
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.exe
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.deps.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.runtimeconfig.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.pdb
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.AssemblyInfoInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.AssemblyInfo.cs
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.sourcelink.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\refint\PrototypeDesignPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.pdb
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.genruntimeconfig.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\ref\PrototypeDesignPattern.dll

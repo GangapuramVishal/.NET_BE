@@ -1,0 +1,15 @@
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\BuilderDesignPattern\bin\Debug\net8.0\BuilderDesignPattern.exe
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\BuilderDesignPattern\bin\Debug\net8.0\BuilderDesignPattern.deps.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\BuilderDesignPattern\bin\Debug\net8.0\BuilderDesignPattern.runtimeconfig.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\BuilderDesignPattern\bin\Debug\net8.0\BuilderDesignPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\BuilderDesignPattern\bin\Debug\net8.0\BuilderDesignPattern.pdb
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.AssemblyInfoInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.AssemblyInfo.cs
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.csproj.CoreCompileInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.sourcelink.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\BuilderDesignPattern\obj\Debug\net8.0\refint\BuilderDesignPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.pdb
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.genruntimeconfig.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\BuilderDesignPattern\obj\Debug\net8.0\ref\BuilderDesignPattern.dll

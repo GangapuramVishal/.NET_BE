@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TAVmCDTEJTc=",
+  "success": true,
+  "projectFilePath": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Docker_Demo\\Sender\\Sender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VishalGangapuram\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
+    "C:\\Users\\VishalGangapuram\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\VishalGangapuram\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\VishalGangapuram\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

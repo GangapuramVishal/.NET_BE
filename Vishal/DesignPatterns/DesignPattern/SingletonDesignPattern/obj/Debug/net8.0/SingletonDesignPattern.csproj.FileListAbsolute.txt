@@ -1,0 +1,15 @@
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.exe
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.deps.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.runtimeconfig.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.pdb
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.AssemblyInfoInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.AssemblyInfo.cs
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.sourcelink.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\SingletonDesignPattern\obj\Debug\net8.0\refint\SingletonDesignPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.pdb
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.genruntimeconfig.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\SingletonDesignPattern\obj\Debug\net8.0\ref\SingletonDesignPattern.dll

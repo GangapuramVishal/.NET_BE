@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Q7MXrt0ER/KS1F9sZQIiu85djI5E0nm301VhvX3RXvg=",
+  "Source": "SentinelOneAPIWithKernel",
+  "BasePath": "_content/SentinelOneAPIWithKernel",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

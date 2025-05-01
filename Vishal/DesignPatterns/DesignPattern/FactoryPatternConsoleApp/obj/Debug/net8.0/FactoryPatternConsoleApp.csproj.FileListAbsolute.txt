@@ -1,0 +1,15 @@
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactoryPatternConsoleApp\bin\Debug\net8.0\FactoryPatternConsoleApp.exe
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactoryPatternConsoleApp\bin\Debug\net8.0\FactoryPatternConsoleApp.deps.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactoryPatternConsoleApp\bin\Debug\net8.0\FactoryPatternConsoleApp.runtimeconfig.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactoryPatternConsoleApp\bin\Debug\net8.0\FactoryPatternConsoleApp.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactoryPatternConsoleApp\bin\Debug\net8.0\FactoryPatternConsoleApp.pdb
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactoryPatternConsoleApp\obj\Debug\net8.0\FactoryPatternConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactoryPatternConsoleApp\obj\Debug\net8.0\FactoryPatternConsoleApp.AssemblyInfoInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactoryPatternConsoleApp\obj\Debug\net8.0\FactoryPatternConsoleApp.AssemblyInfo.cs
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactoryPatternConsoleApp\obj\Debug\net8.0\FactoryPatternConsoleApp.csproj.CoreCompileInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactoryPatternConsoleApp\obj\Debug\net8.0\FactoryPatternConsoleApp.sourcelink.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactoryPatternConsoleApp\obj\Debug\net8.0\FactoryPatternConsoleApp.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactoryPatternConsoleApp\obj\Debug\net8.0\refint\FactoryPatternConsoleApp.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactoryPatternConsoleApp\obj\Debug\net8.0\FactoryPatternConsoleApp.pdb
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactoryPatternConsoleApp\obj\Debug\net8.0\FactoryPatternConsoleApp.genruntimeconfig.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactoryPatternConsoleApp\obj\Debug\net8.0\ref\FactoryPatternConsoleApp.dll

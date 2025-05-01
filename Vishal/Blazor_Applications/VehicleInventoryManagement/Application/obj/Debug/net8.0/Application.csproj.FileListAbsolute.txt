@@ -1,0 +1,13 @@
+C:\Interns_Repo\Interns-BE\Vishal\Blazor_Applications\VehicleInventoryManagement\Application\bin\Debug\net8.0\Application.deps.json
+C:\Interns_Repo\Interns-BE\Vishal\Blazor_Applications\VehicleInventoryManagement\Application\bin\Debug\net8.0\Application.dll
+C:\Interns_Repo\Interns-BE\Vishal\Blazor_Applications\VehicleInventoryManagement\Application\bin\Debug\net8.0\Application.pdb
+C:\Interns_Repo\Interns-BE\Vishal\Blazor_Applications\VehicleInventoryManagement\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Interns_Repo\Interns-BE\Vishal\Blazor_Applications\VehicleInventoryManagement\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interns_Repo\Interns-BE\Vishal\Blazor_Applications\VehicleInventoryManagement\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\Blazor_Applications\VehicleInventoryManagement\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Interns_Repo\Interns-BE\Vishal\Blazor_Applications\VehicleInventoryManagement\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\Blazor_Applications\VehicleInventoryManagement\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\Interns_Repo\Interns-BE\Vishal\Blazor_Applications\VehicleInventoryManagement\Application\obj\Debug\net8.0\Application.dll
+C:\Interns_Repo\Interns-BE\Vishal\Blazor_Applications\VehicleInventoryManagement\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Interns_Repo\Interns-BE\Vishal\Blazor_Applications\VehicleInventoryManagement\Application\obj\Debug\net8.0\Application.pdb
+C:\Interns_Repo\Interns-BE\Vishal\Blazor_Applications\VehicleInventoryManagement\Application\obj\Debug\net8.0\ref\Application.dll

@@ -1,0 +1,15 @@
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\CompositeDesignPattern\bin\Debug\net8.0\CompositeDesignPattern.exe
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\CompositeDesignPattern\bin\Debug\net8.0\CompositeDesignPattern.deps.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\CompositeDesignPattern\bin\Debug\net8.0\CompositeDesignPattern.runtimeconfig.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\CompositeDesignPattern\bin\Debug\net8.0\CompositeDesignPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\CompositeDesignPattern\bin\Debug\net8.0\CompositeDesignPattern.pdb
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.AssemblyInfoInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.AssemblyInfo.cs
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.sourcelink.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\CompositeDesignPattern\obj\Debug\net8.0\refint\CompositeDesignPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.pdb
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.genruntimeconfig.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\CompositeDesignPattern\obj\Debug\net8.0\ref\CompositeDesignPattern.dll

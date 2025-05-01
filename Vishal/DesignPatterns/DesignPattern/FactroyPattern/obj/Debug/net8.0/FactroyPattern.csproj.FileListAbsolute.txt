@@ -1,0 +1,15 @@
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactroyPattern\bin\Debug\net8.0\FactroyPattern.exe
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactroyPattern\bin\Debug\net8.0\FactroyPattern.deps.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactroyPattern\bin\Debug\net8.0\FactroyPattern.runtimeconfig.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactroyPattern\bin\Debug\net8.0\FactroyPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactroyPattern\bin\Debug\net8.0\FactroyPattern.pdb
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactroyPattern\obj\Debug\net8.0\FactroyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactroyPattern\obj\Debug\net8.0\FactroyPattern.AssemblyInfoInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactroyPattern\obj\Debug\net8.0\FactroyPattern.AssemblyInfo.cs
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactroyPattern\obj\Debug\net8.0\FactroyPattern.csproj.CoreCompileInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactroyPattern\obj\Debug\net8.0\FactroyPattern.sourcelink.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactroyPattern\obj\Debug\net8.0\FactroyPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactroyPattern\obj\Debug\net8.0\refint\FactroyPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactroyPattern\obj\Debug\net8.0\FactroyPattern.pdb
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactroyPattern\obj\Debug\net8.0\FactroyPattern.genruntimeconfig.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FactroyPattern\obj\Debug\net8.0\ref\FactroyPattern.dll

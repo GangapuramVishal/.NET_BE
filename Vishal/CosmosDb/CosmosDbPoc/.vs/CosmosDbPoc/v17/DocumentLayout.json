@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdbpoc\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|solutionrelative:domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdbpoc\\domain\\conversations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|solutionrelative:domain\\conversations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdbpoc\\domain\\chats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|solutionrelative:domain\\chats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdbpoc\\dbcontext\\cosmosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|solutionrelative:dbcontext\\cosmosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdbpoc\\interfaces\\iconversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|solutionrelative:interfaces\\iconversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdbpoc\\conversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|solutionrelative:conversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdbpoc\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|solutionrelative:userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdbpoc\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|solutionrelative:userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdbpoc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdbpoc\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|solutionrelative:chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdbpoc\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E63689-2039-4A5C-81EF-8E396B8714FB}|CosmosDbPoc.csproj|solutionrelative:createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 673,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chats.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\Domain\\Chats.cs",
+              "RelativeDocumentMoniker": "Domain\\Chats.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\Domain\\Chats.cs",
+              "RelativeToolTip": "Domain\\Chats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:05:55.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "CreateUserRequest.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\CreateUserRequest.cs",
+              "RelativeToolTip": "CreateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:13:35.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CosmosDbContext.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\DbContext\\CosmosDbContext.cs",
+              "RelativeDocumentMoniker": "DbContext\\CosmosDbContext.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\DbContext\\CosmosDbContext.cs",
+              "RelativeToolTip": "DbContext\\CosmosDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:59:35.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChatRepository.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\ChatRepository.cs",
+              "RelativeDocumentMoniker": "ChatRepository.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\ChatRepository.cs",
+              "RelativeToolTip": "ChatRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:58:02.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\User.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\Domain\\User.cs",
+              "RelativeToolTip": "Domain\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:19:49.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:19:33.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserRepository.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\UserRepository.cs",
+              "RelativeToolTip": "UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:16:51.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\UserService.cs",
+              "RelativeDocumentMoniker": "UserService.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\UserService.cs",
+              "RelativeToolTip": "UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:16:41.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConversationRepository.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\ConversationRepository.cs",
+              "RelativeDocumentMoniker": "ConversationRepository.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\ConversationRepository.cs",
+              "RelativeToolTip": "ConversationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:51:32.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IConversationRepository.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\Interfaces\\IConversationRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IConversationRepository.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\Interfaces\\IConversationRepository.cs",
+              "RelativeToolTip": "Interfaces\\IConversationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:49:58.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conversations.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\Domain\\Conversations.cs",
+              "RelativeDocumentMoniker": "Domain\\Conversations.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDbPoc\\Domain\\Conversations.cs",
+              "RelativeToolTip": "Domain\\Conversations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:46:36.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 54,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

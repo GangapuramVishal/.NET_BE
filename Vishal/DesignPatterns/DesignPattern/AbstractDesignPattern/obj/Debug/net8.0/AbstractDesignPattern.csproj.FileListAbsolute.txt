@@ -1,0 +1,15 @@
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\AbstractDesignPattern\bin\Debug\net8.0\AbstractDesignPattern.exe
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\AbstractDesignPattern\bin\Debug\net8.0\AbstractDesignPattern.deps.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\AbstractDesignPattern\bin\Debug\net8.0\AbstractDesignPattern.runtimeconfig.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\AbstractDesignPattern\bin\Debug\net8.0\AbstractDesignPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\AbstractDesignPattern\bin\Debug\net8.0\AbstractDesignPattern.pdb
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\AbstractDesignPattern\obj\Debug\net8.0\AbstractDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\AbstractDesignPattern\obj\Debug\net8.0\AbstractDesignPattern.AssemblyInfoInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\AbstractDesignPattern\obj\Debug\net8.0\AbstractDesignPattern.AssemblyInfo.cs
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\AbstractDesignPattern\obj\Debug\net8.0\AbstractDesignPattern.csproj.CoreCompileInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\AbstractDesignPattern\obj\Debug\net8.0\AbstractDesignPattern.sourcelink.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\AbstractDesignPattern\obj\Debug\net8.0\AbstractDesignPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\AbstractDesignPattern\obj\Debug\net8.0\refint\AbstractDesignPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\AbstractDesignPattern\obj\Debug\net8.0\AbstractDesignPattern.pdb
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\AbstractDesignPattern\obj\Debug\net8.0\AbstractDesignPattern.genruntimeconfig.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\AbstractDesignPattern\obj\Debug\net8.0\ref\AbstractDesignPattern.dll

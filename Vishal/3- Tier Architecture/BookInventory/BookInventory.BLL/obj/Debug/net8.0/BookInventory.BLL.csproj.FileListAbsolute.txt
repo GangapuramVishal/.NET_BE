@@ -1,0 +1,16 @@
+C:\Interns_Repo\Interns-BE\Vishal\3- Tier Architecture\BookInventory\BookInventory.BLL\bin\Debug\net8.0\BookInventory.BLL.deps.json
+C:\Interns_Repo\Interns-BE\Vishal\3- Tier Architecture\BookInventory\BookInventory.BLL\bin\Debug\net8.0\BookInventory.BLL.dll
+C:\Interns_Repo\Interns-BE\Vishal\3- Tier Architecture\BookInventory\BookInventory.BLL\bin\Debug\net8.0\BookInventory.BLL.pdb
+C:\Interns_Repo\Interns-BE\Vishal\3- Tier Architecture\BookInventory\BookInventory.BLL\bin\Debug\net8.0\BookInventorty.DAL.dll
+C:\Interns_Repo\Interns-BE\Vishal\3- Tier Architecture\BookInventory\BookInventory.BLL\bin\Debug\net8.0\BookInventorty.DAL.pdb
+C:\Interns_Repo\Interns-BE\Vishal\3- Tier Architecture\BookInventory\BookInventory.BLL\obj\Debug\net8.0\BookInventory.BLL.csproj.AssemblyReference.cache
+C:\Interns_Repo\Interns-BE\Vishal\3- Tier Architecture\BookInventory\BookInventory.BLL\obj\Debug\net8.0\BookInventory.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interns_Repo\Interns-BE\Vishal\3- Tier Architecture\BookInventory\BookInventory.BLL\obj\Debug\net8.0\BookInventory.BLL.AssemblyInfoInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\3- Tier Architecture\BookInventory\BookInventory.BLL\obj\Debug\net8.0\BookInventory.BLL.AssemblyInfo.cs
+C:\Interns_Repo\Interns-BE\Vishal\3- Tier Architecture\BookInventory\BookInventory.BLL\obj\Debug\net8.0\BookInventory.BLL.csproj.CoreCompileInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\3- Tier Architecture\BookInventory\BookInventory.BLL\obj\Debug\net8.0\BookInventory.BLL.sourcelink.json
+C:\Interns_Repo\Interns-BE\Vishal\3- Tier Architecture\BookInventory\BookInventory.BLL\obj\Debug\net8.0\BookInve.B7DE6E86.Up2Date
+C:\Interns_Repo\Interns-BE\Vishal\3- Tier Architecture\BookInventory\BookInventory.BLL\obj\Debug\net8.0\BookInventory.BLL.dll
+C:\Interns_Repo\Interns-BE\Vishal\3- Tier Architecture\BookInventory\BookInventory.BLL\obj\Debug\net8.0\refint\BookInventory.BLL.dll
+C:\Interns_Repo\Interns-BE\Vishal\3- Tier Architecture\BookInventory\BookInventory.BLL\obj\Debug\net8.0\BookInventory.BLL.pdb
+C:\Interns_Repo\Interns-BE\Vishal\3- Tier Architecture\BookInventory\BookInventory.BLL\obj\Debug\net8.0\ref\BookInventory.BLL.dll

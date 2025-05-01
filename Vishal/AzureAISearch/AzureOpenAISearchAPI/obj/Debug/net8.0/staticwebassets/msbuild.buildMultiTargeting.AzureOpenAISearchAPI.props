@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AzureOpenAISearchAPI.props" />
+</Project>

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "s17Shzs0oPYmeuk+jl/Y6unO+o3vuVD7g9Y7eCanVIc=",
+  "Source": "SentinelOneIntegration",
+  "BasePath": "_content/SentinelOneIntegration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

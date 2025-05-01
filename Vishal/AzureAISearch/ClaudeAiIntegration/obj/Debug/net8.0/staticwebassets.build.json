@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qF6fPiwwe9gvp059s4nv5d1Z9F6anQ6z/1fsMJ3BowM=",
+  "Source": "ClaudeAiIntegration",
+  "BasePath": "_content/ClaudeAiIntegration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

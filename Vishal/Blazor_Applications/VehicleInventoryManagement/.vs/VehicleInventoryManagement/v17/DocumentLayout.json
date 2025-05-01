@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC183D-3761-45DF-BA1A-7B90C5E73CD3}|Infrastructure\\Infrastructure.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\infrastructure\\repos\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CC183D-3761-45DF-BA1A-7B90C5E73CD3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repos\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\application\\contracts\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|solutionrelative:application\\contracts\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\application\\dtos\\response\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|solutionrelative:application\\dtos\\response\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\application\\dtos\\response\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|solutionrelative:application\\dtos\\response\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F71D9CD-4045-47EC-BEBB-6F1FFB4827E8}|WebUI\\WebUI.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\webui\\webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F71D9CD-4045-47EC-BEBB-6F1FFB4827E8}|WebUI\\WebUI.csproj|solutionrelative:webui\\webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D615E4-2637-4214-A98C-11828DEAA651}|API\\API.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8D615E4-2637-4214-A98C-11828DEAA651}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D615E4-2637-4214-A98C-11828DEAA651}|API\\API.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D615E4-2637-4214-A98C-11828DEAA651}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC183D-3761-45DF-BA1A-7B90C5E73CD3}|Infrastructure\\Infrastructure.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CC183D-3761-45DF-BA1A-7B90C5E73CD3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC183D-3761-45DF-BA1A-7B90C5E73CD3}|Infrastructure\\Infrastructure.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6CC183D-3761-45DF-BA1A-7B90C5E73CD3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC183D-3761-45DF-BA1A-7B90C5E73CD3}|Infrastructure\\Infrastructure.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CC183D-3761-45DF-BA1A-7B90C5E73CD3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24139F69-820A-464B-8B20-363CE77D1E30}|Domain\\Domain.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\domain\\entity\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24139F69-820A-464B-8B20-363CE77D1E30}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\application\\dtos\\response\\account\\userclaimsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|solutionrelative:application\\dtos\\response\\account\\userclaimsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\application\\dtos\\response\\account\\getuserswithroleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|solutionrelative:application\\dtos\\response\\account\\getuserswithroleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\application\\dtos\\response\\account\\getroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|solutionrelative:application\\dtos\\response\\account\\getroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\application\\dtos\\request\\account\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|solutionrelative:application\\dtos\\request\\account\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\application\\dtos\\request\\account\\localstoragedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|solutionrelative:application\\dtos\\request\\account\\localstoragedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\application\\dtos\\request\\account\\changeuserrolerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|solutionrelative:application\\dtos\\request\\account\\changeuserrolerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\application\\dtos\\request\\account\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|solutionrelative:application\\dtos\\request\\account\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\application\\dtos\\request\\account\\createaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|solutionrelative:application\\dtos\\request\\account\\createaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\application\\dtos\\request\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A45920-70A1-4C5B-8124-74686E06DF83}|Application\\Application.csproj|solutionrelative:application\\dtos\\request\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D615E4-2637-4214-A98C-11828DEAA651}|API\\API.csproj|c:\\interns_repo\\interns-be\\vishal\\blazor_applications\\vehicleinventorymanagement\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8D615E4-2637-4214-A98C-11828DEAA651}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Infrastructure\\Repos\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repos\\AccountRepository.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Infrastructure\\Repos\\AccountRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repos\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:35:55.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\Contracts\\IAccount.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\IAccount.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\Contracts\\IAccount.cs",
+              "RelativeToolTip": "Application\\Contracts\\IAccount.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:12:17.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeneralResponse.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Response\\GeneralResponse.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Response\\GeneralResponse.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Response\\GeneralResponse.cs",
+              "RelativeToolTip": "Application\\DTOs\\Response\\GeneralResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:16:51.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Response\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Response\\LoginResponse.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Response\\LoginResponse.cs",
+              "RelativeToolTip": "Application\\DTOs\\Response\\LoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:24:00.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:47:37.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAmwDYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:12:46.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-21T11:48:25.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T07:18:59.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebUI.csproj",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\WebUI\\WebUI.csproj",
+              "RelativeDocumentMoniker": "WebUI\\WebUI.csproj",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\WebUI\\WebUI.csproj",
+              "RelativeToolTip": "WebUI\\WebUI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T07:02:03.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T07:32:03.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T11:56:11.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserClaimsDTO.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Response\\Account\\UserClaimsDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Response\\Account\\UserClaimsDTO.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Response\\Account\\UserClaimsDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\Response\\Account\\UserClaimsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:32:00.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RefreshTokenDTO.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Request\\Account\\RefreshTokenDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Request\\Account\\RefreshTokenDTO.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Request\\Account\\RefreshTokenDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\Request\\Account\\RefreshTokenDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:17:38.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Domain\\Entity\\Authentication\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Authentication\\ApplicationUser.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Domain\\Entity\\Authentication\\ApplicationUser.cs",
+              "RelativeToolTip": "Domain\\Entity\\Authentication\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:36:19.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetRoleDTO.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Response\\Account\\GetRoleDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Response\\Account\\GetRoleDTO.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Response\\Account\\GetRoleDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\Response\\Account\\GetRoleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:27:04.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetUsersWithRoleResponseDTO.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Response\\Account\\GetUsersWithRoleResponseDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Response\\Account\\GetUsersWithRoleResponseDTO.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Response\\Account\\GetUsersWithRoleResponseDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\Response\\Account\\GetUsersWithRoleResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:29:06.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LocalStorageDTO.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Request\\Account\\LocalStorageDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Request\\Account\\LocalStorageDTO.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Request\\Account\\LocalStorageDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\Request\\Account\\LocalStorageDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:15:15.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChangeUserRoleRequestDTO.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Request\\Account\\ChangeUserRoleRequestDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Request\\Account\\ChangeUserRoleRequestDTO.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Request\\Account\\ChangeUserRoleRequestDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\Request\\Account\\ChangeUserRoleRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:13:35.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateRoleDTO.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Request\\Account\\CreateRoleDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Request\\Account\\CreateRoleDTO.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Request\\Account\\CreateRoleDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\Request\\Account\\CreateRoleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:08:06.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateAccountDTO.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Request\\Account\\CreateAccountDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Request\\Account\\CreateAccountDTO.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Request\\Account\\CreateAccountDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\Request\\Account\\CreateAccountDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:42:15.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Request\\Account\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Request\\Account\\LoginDTO.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\Application\\DTOs\\Request\\Account\\LoginDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\Request\\Account\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:42:43.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Blazor_Applications\\VehicleInventoryManagement\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T06:56:54.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

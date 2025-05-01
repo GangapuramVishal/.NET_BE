@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|c:\\interns_repo\\interns-be\\vishal\\caching\\cascadecache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|c:\\interns_repo\\interns-be\\vishal\\caching\\cascadecache\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|solutionrelative:dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|c:\\interns_repo\\interns-be\\vishal\\caching\\cascadecache\\services\\getemployeebyidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|solutionrelative:services\\getemployeebyidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|c:\\interns_repo\\interns-be\\vishal\\caching\\cascadecache\\services\\externalapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|solutionrelative:services\\externalapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|c:\\interns_repo\\interns-be\\vishal\\caching\\cascadecache\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|solutionrelative:repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|c:\\interns_repo\\interns-be\\vishal\\caching\\cascadecache\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|c:\\interns_repo\\interns-be\\vishal\\caching\\cascadecache\\interfaces\\iexternalapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|solutionrelative:interfaces\\iexternalapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|c:\\interns_repo\\interns-be\\vishal\\caching\\cascadecache\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|solutionrelative:interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|c:\\interns_repo\\interns-be\\vishal\\caching\\cascadecache\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|solutionrelative:interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|c:\\interns_repo\\interns-be\\vishal\\caching\\cascadecache\\interfaces\\iemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|solutionrelative:interfaces\\iemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|c:\\interns_repo\\interns-be\\vishal\\caching\\cascadecache\\handlers\\externalapiemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|solutionrelative:handlers\\externalapiemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|c:\\interns_repo\\interns-be\\vishal\\caching\\cascadecache\\handlers\\employeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|solutionrelative:handlers\\employeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|c:\\interns_repo\\interns-be\\vishal\\caching\\cascadecache\\handlers\\databaseemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|solutionrelative:handlers\\databaseemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|c:\\interns_repo\\interns-be\\vishal\\caching\\cascadecache\\handlers\\cacheemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|solutionrelative:handlers\\cacheemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|c:\\interns_repo\\interns-be\\vishal\\caching\\cascadecache\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|c:\\interns_repo\\interns-be\\vishal\\caching\\cascadecache\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21BC7164-E425-4FBD-A39A-6609E05EE53A}|CascadeCache.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Migrations\\20241113054710_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241113054710_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 272,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:55:33.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:00:58.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IExternalApiService.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Interfaces\\IExternalApiService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IExternalApiService.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Interfaces\\IExternalApiService.cs",
+              "RelativeToolTip": "Interfaces\\IExternalApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:11:45.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T20:18:04.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:51:15.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExternalApiService.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Services\\ExternalApiService.cs",
+              "RelativeDocumentMoniker": "Services\\ExternalApiService.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Services\\ExternalApiService.cs",
+              "RelativeToolTip": "Services\\ExternalApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:37:50.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetEmployeeByIdService.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Services\\GetEmployeeByIdService.cs",
+              "RelativeDocumentMoniker": "Services\\GetEmployeeByIdService.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Services\\GetEmployeeByIdService.cs",
+              "RelativeToolTip": "Services\\GetEmployeeByIdService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T20:13:37.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\DbContext.cs",
+              "RelativeDocumentMoniker": "DbContext.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\DbContext.cs",
+              "RelativeToolTip": "DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T20:19:36.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T20:14:35.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmployeeHandler.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Interfaces\\IEmployeeHandler.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEmployeeHandler.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Interfaces\\IEmployeeHandler.cs",
+              "RelativeToolTip": "Interfaces\\IEmployeeHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T20:10:13.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExternalApiEmployeeHandler.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Handlers\\ExternalApiEmployeeHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\ExternalApiEmployeeHandler.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Handlers\\ExternalApiEmployeeHandler.cs",
+              "RelativeToolTip": "Handlers\\ExternalApiEmployeeHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T20:12:20.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeHandler.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Handlers\\EmployeeHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\EmployeeHandler.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Handlers\\EmployeeHandler.cs",
+              "RelativeToolTip": "Handlers\\EmployeeHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T20:10:49.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DatabaseEmployeeHandler.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Handlers\\DatabaseEmployeeHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\DatabaseEmployeeHandler.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Handlers\\DatabaseEmployeeHandler.cs",
+              "RelativeToolTip": "Handlers\\DatabaseEmployeeHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T20:11:47.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CacheEmployeeHandler.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Handlers\\CacheEmployeeHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\CacheEmployeeHandler.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Handlers\\CacheEmployeeHandler.cs",
+              "RelativeToolTip": "Handlers\\CacheEmployeeHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T20:11:22.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T20:15:56.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T20:21:35.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241113054710_initial.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Migrations\\20241113054710_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241113054710_initial.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Caching\\CascadeCache\\Migrations\\20241113054710_initial.cs",
+              "RelativeToolTip": "Migrations\\20241113054710_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:47:11.23Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 100,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

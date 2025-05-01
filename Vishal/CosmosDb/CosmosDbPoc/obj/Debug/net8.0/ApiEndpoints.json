@@ -1,0 +1,135 @@
+[
+  {
+    "ContainingType": "CosmosDbPoc.Controllers.ChatController",
+    "Method": "CreateConversationAsync",
+    "RelativePath": "api/Chat/conversation/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "conversation",
+        "Type": "CosmosDbPoc.Domain.Conversations",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CosmosDbPoc.Controllers.ChatController",
+    "Method": "GetConversationsAsync",
+    "RelativePath": "api/Chat/conversations/{chatId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "chatId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CosmosDbPoc.Controllers.ChatController",
+    "Method": "CreateChatAsync",
+    "RelativePath": "api/Chat/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "chat",
+        "Type": "CosmosDbPoc.Domain.Chats",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CosmosDbPoc.Controllers.ChatController",
+    "Method": "DeleteChatAsync",
+    "RelativePath": "api/Chat/delete/{chatId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "chatId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CosmosDbPoc.Controllers.ChatController",
+    "Method": "GetChatAsync",
+    "RelativePath": "api/Chat/get/{chatId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "chatId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CosmosDbPoc.Controllers.ChatController",
+    "Method": "UpdateChatAsync",
+    "RelativePath": "api/Chat/update/{chatId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "chatId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "newTitle",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CosmosDbPoc.Controllers.UserController",
+    "Method": "CreateUserAsync",
+    "RelativePath": "api/User/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CosmosDbPoc.CreateUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CosmosDbPoc.Controllers.UserController",
+    "Method": "GetUserAsync",
+    "RelativePath": "api/User/get/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MSALForA_A.props" />
+</Project>

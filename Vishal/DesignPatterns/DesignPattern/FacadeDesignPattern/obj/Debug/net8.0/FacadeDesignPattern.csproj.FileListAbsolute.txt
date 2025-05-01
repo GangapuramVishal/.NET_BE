@@ -1,0 +1,15 @@
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FacadeDesignPattern\bin\Debug\net8.0\FacadeDesignPattern.exe
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FacadeDesignPattern\bin\Debug\net8.0\FacadeDesignPattern.deps.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FacadeDesignPattern\bin\Debug\net8.0\FacadeDesignPattern.runtimeconfig.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FacadeDesignPattern\bin\Debug\net8.0\FacadeDesignPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FacadeDesignPattern\bin\Debug\net8.0\FacadeDesignPattern.pdb
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.AssemblyInfoInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.AssemblyInfo.cs
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.sourcelink.json
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FacadeDesignPattern\obj\Debug\net8.0\refint\FacadeDesignPattern.dll
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.pdb
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.genruntimeconfig.cache
+C:\Interns_Repo\Interns-BE\Vishal\DesignPatterns\DesignPattern\FacadeDesignPattern\obj\Debug\net8.0\ref\FacadeDesignPattern.dll

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\WatsonIntegrationAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B540DC-AFDB-41E6-B012-77695093BAE6}|WatsonIntegrationAPI.csproj|c:\\interns_repo\\interns-be\\vishal\\azureaisearch\\watsonintegrationapi\\watsonassistantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B540DC-AFDB-41E6-B012-77695093BAE6}|WatsonIntegrationAPI.csproj|solutionrelative:watsonassistantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B540DC-AFDB-41E6-B012-77695093BAE6}|WatsonIntegrationAPI.csproj|c:\\interns_repo\\interns-be\\vishal\\azureaisearch\\watsonintegrationapi\\controllers\\watsoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B540DC-AFDB-41E6-B012-77695093BAE6}|WatsonIntegrationAPI.csproj|solutionrelative:controllers\\watsoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B540DC-AFDB-41E6-B012-77695093BAE6}|WatsonIntegrationAPI.csproj|c:\\interns_repo\\interns-be\\vishal\\azureaisearch\\watsonintegrationapi\\userprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B540DC-AFDB-41E6-B012-77695093BAE6}|WatsonIntegrationAPI.csproj|solutionrelative:userprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B540DC-AFDB-41E6-B012-77695093BAE6}|WatsonIntegrationAPI.csproj|c:\\interns_repo\\interns-be\\vishal\\azureaisearch\\watsonintegrationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B540DC-AFDB-41E6-B012-77695093BAE6}|WatsonIntegrationAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B540DC-AFDB-41E6-B012-77695093BAE6}|WatsonIntegrationAPI.csproj|c:\\interns_repo\\interns-be\\vishal\\azureaisearch\\watsonintegrationapi\\watsonsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B540DC-AFDB-41E6-B012-77695093BAE6}|WatsonIntegrationAPI.csproj|solutionrelative:watsonsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B540DC-AFDB-41E6-B012-77695093BAE6}|WatsonIntegrationAPI.csproj|c:\\interns_repo\\interns-be\\vishal\\azureaisearch\\watsonintegrationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1B540DC-AFDB-41E6-B012-77695093BAE6}|WatsonIntegrationAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 272,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserPrompt.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\WatsonIntegrationAPI\\UserPrompt.cs",
+              "RelativeDocumentMoniker": "UserPrompt.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\WatsonIntegrationAPI\\UserPrompt.cs",
+              "RelativeToolTip": "UserPrompt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:41:49.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WatsonController.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\WatsonIntegrationAPI\\Controllers\\WatsonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WatsonController.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\WatsonIntegrationAPI\\Controllers\\WatsonController.cs",
+              "RelativeToolTip": "Controllers\\WatsonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:40:57.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WatsonAssistantService.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\WatsonIntegrationAPI\\WatsonAssistantService.cs",
+              "RelativeDocumentMoniker": "WatsonAssistantService.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\WatsonIntegrationAPI\\WatsonAssistantService.cs",
+              "RelativeToolTip": "WatsonAssistantService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:38:36.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WatsonSettings.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\WatsonIntegrationAPI\\WatsonSettings.cs",
+              "RelativeDocumentMoniker": "WatsonSettings.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\WatsonIntegrationAPI\\WatsonSettings.cs",
+              "RelativeToolTip": "WatsonSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:37:55.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\WatsonIntegrationAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\WatsonIntegrationAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:36:51.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\WatsonIntegrationAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\AzureAISearch\\WatsonIntegrationAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T05:36:25.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 100,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "SentinelOneIntegration.Controllers.GenericLogsController",
+    "Method": "GetActivities",
+    "RelativePath": "api/GenericLogs/activities",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SentinelOneIntegration.Controllers.GenericLogsController",
+    "Method": "FetchLogs",
+    "RelativePath": "api/GenericLogs/fetch-logs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fetchLogsRequest",
+        "Type": "SentinelOneIntegration.FetchLogsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SentinelOneIntegration.Controllers.LogsController",
+    "Method": "FetchLogs",
+    "RelativePath": "api/Logs/fetch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "logRequest",
+        "Type": "SentinelOneIntegration.Controllers.LogRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SentinelOneIntegration.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[SentinelOneIntegration.WeatherForecast, SentinelOneIntegration, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

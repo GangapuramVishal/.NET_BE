@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Interns_Repo\\Interns-BE\\Vishal\\3- Tier Architecture\\BookInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{939DD459-B0D3-4B4D-B06B-D951D07E91B0}|BookInventory.API\\BookInventory.API.csproj|c:\\interns_repo\\interns-be\\vishal\\3- tier architecture\\bookinventory\\bookinventory.api\\azsqlconnection\\azservicetokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{939DD459-B0D3-4B4D-B06B-D951D07E91B0}|BookInventory.API\\BookInventory.API.csproj|solutionrelative:bookinventory.api\\azsqlconnection\\azservicetokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939DD459-B0D3-4B4D-B06B-D951D07E91B0}|BookInventory.API\\BookInventory.API.csproj|c:\\interns_repo\\interns-be\\vishal\\3- tier architecture\\bookinventory\\bookinventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{939DD459-B0D3-4B4D-B06B-D951D07E91B0}|BookInventory.API\\BookInventory.API.csproj|solutionrelative:bookinventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7BCCAA-D2E0-4D86-AD4C-33A92F78A1AD}|BookInventory.BLL\\BookInventory.BLL.csproj|c:\\interns_repo\\interns-be\\vishal\\3- tier architecture\\bookinventory\\bookinventory.bll\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7BCCAA-D2E0-4D86-AD4C-33A92F78A1AD}|BookInventory.BLL\\BookInventory.BLL.csproj|solutionrelative:bookinventory.bll\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7BCCAA-D2E0-4D86-AD4C-33A92F78A1AD}|BookInventory.BLL\\BookInventory.BLL.csproj|c:\\interns_repo\\interns-be\\vishal\\3- tier architecture\\bookinventory\\bookinventory.bll\\service\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7BCCAA-D2E0-4D86-AD4C-33A92F78A1AD}|BookInventory.BLL\\BookInventory.BLL.csproj|solutionrelative:bookinventory.bll\\service\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F3537-B376-4B44-B0AA-83146A7319CD}|BookInventorty.DAL\\BookInventorty.DAL.csproj|c:\\interns_repo\\interns-be\\vishal\\3- tier architecture\\bookinventory\\bookinventorty.dal\\repositorys\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F3537-B376-4B44-B0AA-83146A7319CD}|BookInventorty.DAL\\BookInventorty.DAL.csproj|solutionrelative:bookinventorty.dal\\repositorys\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939DD459-B0D3-4B4D-B06B-D951D07E91B0}|BookInventory.API\\BookInventory.API.csproj|c:\\interns_repo\\interns-be\\vishal\\3- tier architecture\\bookinventory\\bookinventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{939DD459-B0D3-4B4D-B06B-D951D07E91B0}|BookInventory.API\\BookInventory.API.csproj|solutionrelative:bookinventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F3537-B376-4B44-B0AA-83146A7319CD}|BookInventorty.DAL\\BookInventorty.DAL.csproj|c:\\interns_repo\\interns-be\\vishal\\3- tier architecture\\bookinventory\\bookinventorty.dal\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F3537-B376-4B44-B0AA-83146A7319CD}|BookInventorty.DAL\\BookInventorty.DAL.csproj|solutionrelative:bookinventorty.dal\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AzServiceTokenProvider.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\3- Tier Architecture\\BookInventory\\BookInventory.API\\AzSQLConnection\\AzServiceTokenProvider.cs",
+              "RelativeDocumentMoniker": "BookInventory.API\\AzSQLConnection\\AzServiceTokenProvider.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\3- Tier Architecture\\BookInventory\\BookInventory.API\\AzSQLConnection\\AzServiceTokenProvider.cs",
+              "RelativeToolTip": "BookInventory.API\\AzSQLConnection\\AzServiceTokenProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:20:42.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\3- Tier Architecture\\BookInventory\\BookInventory.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BookInventory.API\\appsettings.json",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\3- Tier Architecture\\BookInventory\\BookInventory.API\\appsettings.json",
+              "RelativeToolTip": "BookInventory.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T05:03:20.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\3- Tier Architecture\\BookInventory\\BookInventory.BLL\\Service\\BookService.cs",
+              "RelativeDocumentMoniker": "BookInventory.BLL\\Service\\BookService.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\3- Tier Architecture\\BookInventory\\BookInventory.BLL\\Service\\BookService.cs",
+              "RelativeToolTip": "BookInventory.BLL\\Service\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:10:15.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\3- Tier Architecture\\BookInventory\\BookInventory.BLL\\Service\\IBookService.cs",
+              "RelativeDocumentMoniker": "BookInventory.BLL\\Service\\IBookService.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\3- Tier Architecture\\BookInventory\\BookInventory.BLL\\Service\\IBookService.cs",
+              "RelativeToolTip": "BookInventory.BLL\\Service\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:10:13.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\3- Tier Architecture\\BookInventory\\BookInventorty.DAL\\Repositorys\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookInventorty.DAL\\Repositorys\\BookRepository.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\3- Tier Architecture\\BookInventory\\BookInventorty.DAL\\Repositorys\\BookRepository.cs",
+              "RelativeToolTip": "BookInventorty.DAL\\Repositorys\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:09:38.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\3- Tier Architecture\\BookInventory\\BookInventory.API\\Program.cs",
+              "RelativeDocumentMoniker": "BookInventory.API\\Program.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\3- Tier Architecture\\BookInventory\\BookInventory.API\\Program.cs",
+              "RelativeToolTip": "BookInventory.API\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:32:00.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\3- Tier Architecture\\BookInventory\\BookInventorty.DAL\\Data\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "BookInventorty.DAL\\Data\\BookDbContext.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\3- Tier Architecture\\BookInventory\\BookInventorty.DAL\\Data\\BookDbContext.cs",
+              "RelativeToolTip": "BookInventorty.DAL\\Data\\BookDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:30:04.903Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 146,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

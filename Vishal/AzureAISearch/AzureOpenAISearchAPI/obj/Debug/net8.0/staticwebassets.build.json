@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9e/O1W6o+2xA1QKn74RyMu84AkOPybhfLt4J6zyfb6o=",
+  "Source": "AzureOpenAISearchAPI",
+  "BasePath": "_content/AzureOpenAISearchAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "TeamAdi.Controllers.CalendarController",
+    "Method": "GetCalendarEvents",
+    "RelativePath": "api/Calendar/events",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,15 @@
+C:\Interns_Repo\Interns-BE\Vishal\DemoDI\DemoWithDI\DemoWithDI\bin\Debug\net8.0\DemoWithDI.exe
+C:\Interns_Repo\Interns-BE\Vishal\DemoDI\DemoWithDI\DemoWithDI\bin\Debug\net8.0\DemoWithDI.deps.json
+C:\Interns_Repo\Interns-BE\Vishal\DemoDI\DemoWithDI\DemoWithDI\bin\Debug\net8.0\DemoWithDI.runtimeconfig.json
+C:\Interns_Repo\Interns-BE\Vishal\DemoDI\DemoWithDI\DemoWithDI\bin\Debug\net8.0\DemoWithDI.dll
+C:\Interns_Repo\Interns-BE\Vishal\DemoDI\DemoWithDI\DemoWithDI\bin\Debug\net8.0\DemoWithDI.pdb
+C:\Interns_Repo\Interns-BE\Vishal\DemoDI\DemoWithDI\DemoWithDI\obj\Debug\net8.0\DemoWithDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interns_Repo\Interns-BE\Vishal\DemoDI\DemoWithDI\DemoWithDI\obj\Debug\net8.0\DemoWithDI.AssemblyInfoInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\DemoDI\DemoWithDI\DemoWithDI\obj\Debug\net8.0\DemoWithDI.AssemblyInfo.cs
+C:\Interns_Repo\Interns-BE\Vishal\DemoDI\DemoWithDI\DemoWithDI\obj\Debug\net8.0\DemoWithDI.csproj.CoreCompileInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\DemoDI\DemoWithDI\DemoWithDI\obj\Debug\net8.0\DemoWithDI.sourcelink.json
+C:\Interns_Repo\Interns-BE\Vishal\DemoDI\DemoWithDI\DemoWithDI\obj\Debug\net8.0\DemoWithDI.dll
+C:\Interns_Repo\Interns-BE\Vishal\DemoDI\DemoWithDI\DemoWithDI\obj\Debug\net8.0\refint\DemoWithDI.dll
+C:\Interns_Repo\Interns-BE\Vishal\DemoDI\DemoWithDI\DemoWithDI\obj\Debug\net8.0\DemoWithDI.pdb
+C:\Interns_Repo\Interns-BE\Vishal\DemoDI\DemoWithDI\DemoWithDI\obj\Debug\net8.0\DemoWithDI.genruntimeconfig.cache
+C:\Interns_Repo\Interns-BE\Vishal\DemoDI\DemoWithDI\DemoWithDI\obj\Debug\net8.0\ref\DemoWithDI.dll

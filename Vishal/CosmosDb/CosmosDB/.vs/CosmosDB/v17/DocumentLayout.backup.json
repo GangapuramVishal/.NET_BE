@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdb\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdb\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|solutionrelative:chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdb\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|solutionrelative:chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdb\\interfaces\\ichatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|solutionrelative:interfaces\\ichatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdb\\models\\conversations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|solutionrelative:models\\conversations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdb\\models\\chats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|solutionrelative:models\\chats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdb\\interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|solutionrelative:interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdb\\createchatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|solutionrelative:createchatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|c:\\interns_repo\\interns-be\\vishal\\cosmosdb\\cosmosdb\\usercreationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA14D4E-C946-4CC8-A543-82AD376C39A3}|CosmosDB.csproj|solutionrelative:usercreationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 558,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:29:15.078Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IChatService.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\Interfaces\\IChatService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IChatService.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\Interfaces\\IChatService.cs",
+              "RelativeToolTip": "Interfaces\\IChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:30:14.454Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\ChatService.cs",
+              "RelativeDocumentMoniker": "ChatService.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\ChatService.cs",
+              "RelativeToolTip": "ChatService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAADgv1QAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:28:42.741Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatRepository.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\ChatRepository.cs",
+              "RelativeDocumentMoniker": "ChatRepository.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\ChatRepository.cs",
+              "RelativeToolTip": "ChatRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:22:49.737Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T06:35:54.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chats.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\Models\\Chats.cs",
+              "RelativeDocumentMoniker": "Models\\Chats.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\Models\\Chats.cs",
+              "RelativeToolTip": "Models\\Chats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:18:28.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conversations.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\Models\\Conversations.cs",
+              "RelativeDocumentMoniker": "Models\\Conversations.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\Models\\Conversations.cs",
+              "RelativeToolTip": "Models\\Conversations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:18:48.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateChatRequest.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\CreateChatRequest.cs",
+              "RelativeDocumentMoniker": "CreateChatRequest.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\CreateChatRequest.cs",
+              "RelativeToolTip": "CreateChatRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:33:26.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IChatRepository.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\Interfaces\\IChatRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IChatRepository.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\Interfaces\\IChatRepository.cs",
+              "RelativeToolTip": "Interfaces\\IChatRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:22:28.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:18:01.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserCreationResponse.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\UserCreationResponse.cs",
+              "RelativeDocumentMoniker": "UserCreationResponse.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\CosmosDb\\CosmosDB\\UserCreationResponse.cs",
+              "RelativeToolTip": "UserCreationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:55:11.814Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 54,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

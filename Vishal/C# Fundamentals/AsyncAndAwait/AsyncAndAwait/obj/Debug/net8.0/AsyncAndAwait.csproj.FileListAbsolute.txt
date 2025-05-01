@@ -1,0 +1,15 @@
+C:\Interns_Repo\Interns-BE\Vishal\C# Fundamentals\AsyncAndAwait\AsyncAndAwait\bin\Debug\net8.0\AsyncAndAwait.exe
+C:\Interns_Repo\Interns-BE\Vishal\C# Fundamentals\AsyncAndAwait\AsyncAndAwait\bin\Debug\net8.0\AsyncAndAwait.deps.json
+C:\Interns_Repo\Interns-BE\Vishal\C# Fundamentals\AsyncAndAwait\AsyncAndAwait\bin\Debug\net8.0\AsyncAndAwait.runtimeconfig.json
+C:\Interns_Repo\Interns-BE\Vishal\C# Fundamentals\AsyncAndAwait\AsyncAndAwait\bin\Debug\net8.0\AsyncAndAwait.dll
+C:\Interns_Repo\Interns-BE\Vishal\C# Fundamentals\AsyncAndAwait\AsyncAndAwait\bin\Debug\net8.0\AsyncAndAwait.pdb
+C:\Interns_Repo\Interns-BE\Vishal\C# Fundamentals\AsyncAndAwait\AsyncAndAwait\obj\Debug\net8.0\AsyncAndAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interns_Repo\Interns-BE\Vishal\C# Fundamentals\AsyncAndAwait\AsyncAndAwait\obj\Debug\net8.0\AsyncAndAwait.AssemblyInfoInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\C# Fundamentals\AsyncAndAwait\AsyncAndAwait\obj\Debug\net8.0\AsyncAndAwait.AssemblyInfo.cs
+C:\Interns_Repo\Interns-BE\Vishal\C# Fundamentals\AsyncAndAwait\AsyncAndAwait\obj\Debug\net8.0\AsyncAndAwait.csproj.CoreCompileInputs.cache
+C:\Interns_Repo\Interns-BE\Vishal\C# Fundamentals\AsyncAndAwait\AsyncAndAwait\obj\Debug\net8.0\AsyncAndAwait.sourcelink.json
+C:\Interns_Repo\Interns-BE\Vishal\C# Fundamentals\AsyncAndAwait\AsyncAndAwait\obj\Debug\net8.0\AsyncAndAwait.dll
+C:\Interns_Repo\Interns-BE\Vishal\C# Fundamentals\AsyncAndAwait\AsyncAndAwait\obj\Debug\net8.0\refint\AsyncAndAwait.dll
+C:\Interns_Repo\Interns-BE\Vishal\C# Fundamentals\AsyncAndAwait\AsyncAndAwait\obj\Debug\net8.0\AsyncAndAwait.pdb
+C:\Interns_Repo\Interns-BE\Vishal\C# Fundamentals\AsyncAndAwait\AsyncAndAwait\obj\Debug\net8.0\AsyncAndAwait.genruntimeconfig.cache
+C:\Interns_Repo\Interns-BE\Vishal\C# Fundamentals\AsyncAndAwait\AsyncAndAwait\obj\Debug\net8.0\ref\AsyncAndAwait.dll

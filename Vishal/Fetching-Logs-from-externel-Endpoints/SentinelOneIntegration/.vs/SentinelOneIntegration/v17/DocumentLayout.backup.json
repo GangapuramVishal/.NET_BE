@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Fetching-Logs-from-externel-Endpoints\\SentinelOneIntegration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD441742-6453-4380-B01F-3361B7997AAF}|SentinelOneIntegration.csproj|c:\\interns_repo\\interns-be\\vishal\\fetching-logs-from-externel-endpoints\\sentineloneintegration\\sentineloneclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD441742-6453-4380-B01F-3361B7997AAF}|SentinelOneIntegration.csproj|solutionrelative:sentineloneclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD441742-6453-4380-B01F-3361B7997AAF}|SentinelOneIntegration.csproj|c:\\interns_repo\\interns-be\\vishal\\fetching-logs-from-externel-endpoints\\sentineloneintegration\\controllers\\genericlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD441742-6453-4380-B01F-3361B7997AAF}|SentinelOneIntegration.csproj|solutionrelative:controllers\\genericlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD441742-6453-4380-B01F-3361B7997AAF}|SentinelOneIntegration.csproj|c:\\interns_repo\\interns-be\\vishal\\fetching-logs-from-externel-endpoints\\sentineloneintegration\\genericsentineloneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD441742-6453-4380-B01F-3361B7997AAF}|SentinelOneIntegration.csproj|solutionrelative:genericsentineloneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD441742-6453-4380-B01F-3361B7997AAF}|SentinelOneIntegration.csproj|c:\\interns_repo\\interns-be\\vishal\\fetching-logs-from-externel-endpoints\\sentineloneintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD441742-6453-4380-B01F-3361B7997AAF}|SentinelOneIntegration.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD441742-6453-4380-B01F-3361B7997AAF}|SentinelOneIntegration.csproj|c:\\interns_repo\\interns-be\\vishal\\fetching-logs-from-externel-endpoints\\sentineloneintegration\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD441742-6453-4380-B01F-3361B7997AAF}|SentinelOneIntegration.csproj|solutionrelative:controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Fetching-Logs-from-externel-Endpoints\\SentinelOneIntegration\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Fetching-Logs-from-externel-Endpoints\\SentinelOneIntegration\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:20:02.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericSentinelOneService.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Fetching-Logs-from-externel-Endpoints\\SentinelOneIntegration\\GenericSentinelOneService.cs",
+              "RelativeDocumentMoniker": "GenericSentinelOneService.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Fetching-Logs-from-externel-Endpoints\\SentinelOneIntegration\\GenericSentinelOneService.cs",
+              "RelativeToolTip": "GenericSentinelOneService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:39:47.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericLogsController.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Fetching-Logs-from-externel-Endpoints\\SentinelOneIntegration\\Controllers\\GenericLogsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GenericLogsController.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Fetching-Logs-from-externel-Endpoints\\SentinelOneIntegration\\Controllers\\GenericLogsController.cs",
+              "RelativeToolTip": "Controllers\\GenericLogsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:38:27.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Fetching-Logs-from-externel-Endpoints\\SentinelOneIntegration\\Controllers\\LogsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LogsController.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Fetching-Logs-from-externel-Endpoints\\SentinelOneIntegration\\Controllers\\LogsController.cs",
+              "RelativeToolTip": "Controllers\\LogsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:40:18.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SentinelOneClient.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Fetching-Logs-from-externel-Endpoints\\SentinelOneIntegration\\SentinelOneClient.cs",
+              "RelativeDocumentMoniker": "SentinelOneClient.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\Fetching-Logs-from-externel-Endpoints\\SentinelOneIntegration\\SentinelOneClient.cs",
+              "RelativeToolTip": "SentinelOneClient.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:39:26.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 146,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

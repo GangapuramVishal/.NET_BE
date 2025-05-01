@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PVDSMisG01uhEWA2zOYlDxb7rMCQy+wfAiRQ5vjfLqo=",
+  "Source": "GeminiAiIntegrationPOC",
+  "BasePath": "_content/GeminiAiIntegrationPOC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

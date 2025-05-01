@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ReadValuesFromAppSettingJson\\ValuesFromAppSettings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A80A4A7D-A144-4380-A0E3-194FE2EF3D97}|ValuesFromAppSettings.csproj|c:\\interns_repo\\interns-be\\vishal\\readvaluesfromappsettingjson\\valuesfromappsettings\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A80A4A7D-A144-4380-A0E3-194FE2EF3D97}|ValuesFromAppSettings.csproj|solutionrelative:notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80A4A7D-A144-4380-A0E3-194FE2EF3D97}|ValuesFromAppSettings.csproj|c:\\interns_repo\\interns-be\\vishal\\readvaluesfromappsettingjson\\valuesfromappsettings\\options\\employeeoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80A4A7D-A144-4380-A0E3-194FE2EF3D97}|ValuesFromAppSettings.csproj|solutionrelative:options\\employeeoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80A4A7D-A144-4380-A0E3-194FE2EF3D97}|ValuesFromAppSettings.csproj|c:\\interns_repo\\interns-be\\vishal\\readvaluesfromappsettingjson\\valuesfromappsettings\\controllers\\configurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80A4A7D-A144-4380-A0E3-194FE2EF3D97}|ValuesFromAppSettings.csproj|solutionrelative:controllers\\configurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80A4A7D-A144-4380-A0E3-194FE2EF3D97}|ValuesFromAppSettings.csproj|c:\\interns_repo\\interns-be\\vishal\\readvaluesfromappsettingjson\\valuesfromappsettings\\options\\categoryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80A4A7D-A144-4380-A0E3-194FE2EF3D97}|ValuesFromAppSettings.csproj|solutionrelative:options\\categoryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80A4A7D-A144-4380-A0E3-194FE2EF3D97}|ValuesFromAppSettings.csproj|c:\\interns_repo\\interns-be\\vishal\\readvaluesfromappsettingjson\\valuesfromappsettings\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A80A4A7D-A144-4380-A0E3-194FE2EF3D97}|ValuesFromAppSettings.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80A4A7D-A144-4380-A0E3-194FE2EF3D97}|ValuesFromAppSettings.csproj|c:\\interns_repo\\interns-be\\vishal\\readvaluesfromappsettingjson\\valuesfromappsettings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80A4A7D-A144-4380-A0E3-194FE2EF3D97}|ValuesFromAppSettings.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeOptions.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ReadValuesFromAppSettingJson\\ValuesFromAppSettings\\Options\\EmployeeOptions.cs",
+              "RelativeDocumentMoniker": "Options\\EmployeeOptions.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ReadValuesFromAppSettingJson\\ValuesFromAppSettings\\Options\\EmployeeOptions.cs",
+              "RelativeToolTip": "Options\\EmployeeOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:51:09.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Notes.txt",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ReadValuesFromAppSettingJson\\ValuesFromAppSettings\\Notes.txt",
+              "RelativeDocumentMoniker": "Notes.txt",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ReadValuesFromAppSettingJson\\ValuesFromAppSettings\\Notes.txt",
+              "RelativeToolTip": "Notes.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-20T15:38:41.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigurationController.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ReadValuesFromAppSettingJson\\ValuesFromAppSettings\\Controllers\\ConfigurationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConfigurationController.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ReadValuesFromAppSettingJson\\ValuesFromAppSettings\\Controllers\\ConfigurationController.cs",
+              "RelativeToolTip": "Controllers\\ConfigurationController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwEEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:25:49.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryOptions.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ReadValuesFromAppSettingJson\\ValuesFromAppSettings\\Options\\CategoryOptions.cs",
+              "RelativeDocumentMoniker": "Options\\CategoryOptions.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ReadValuesFromAppSettingJson\\ValuesFromAppSettings\\Options\\CategoryOptions.cs",
+              "RelativeToolTip": "Options\\CategoryOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:27:49.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ReadValuesFromAppSettingJson\\ValuesFromAppSettings\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ReadValuesFromAppSettingJson\\ValuesFromAppSettings\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T15:22:11.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ReadValuesFromAppSettingJson\\ValuesFromAppSettings\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ReadValuesFromAppSettingJson\\ValuesFromAppSettings\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:05:11.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

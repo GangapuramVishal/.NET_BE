@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|c:\\interns_repo\\interns-be\\vishal\\chathistorydemo\\chatcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|solutionrelative:chatcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|c:\\interns_repo\\interns-be\\vishal\\chathistorydemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|c:\\interns_repo\\interns-be\\vishal\\chathistorydemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|c:\\interns_repo\\interns-be\\vishal\\chathistorydemo\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|c:\\interns_repo\\interns-be\\vishal\\chathistorydemo\\models\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|solutionrelative:models\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|c:\\interns_repo\\interns-be\\vishal\\chathistorydemo\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|solutionrelative:models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|c:\\interns_repo\\interns-be\\vishal\\chathistorydemo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|c:\\interns_repo\\interns-be\\vishal\\chathistorydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|c:\\interns_repo\\interns-be\\vishal\\chathistorydemo\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|c:\\interns_repo\\interns-be\\vishal\\chathistorydemo\\controllers\\conversationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|solutionrelative:controllers\\conversationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|c:\\interns_repo\\interns-be\\vishal\\chathistorydemo\\models\\openaisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D897D3-F87F-48B3-B09E-28148E2CAD9D}|ChatHistoryDemo.csproj|solutionrelative:models\\openaisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatCleanupService.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\ChatCleanupService.cs",
+              "RelativeDocumentMoniker": "ChatCleanupService.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\ChatCleanupService.cs",
+              "RelativeToolTip": "ChatCleanupService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:51:40.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:47:57.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConversationController.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\Controllers\\ConversationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConversationController.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\Controllers\\ConversationController.cs",
+              "RelativeToolTip": "Controllers\\ConversationController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:14:13.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAADwvx8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:41:42.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T11:37:21.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:38:32.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:36:40.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:33:54.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OpenAISettings.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\Models\\OpenAISettings.cs",
+              "RelativeDocumentMoniker": "Models\\OpenAISettings.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\Models\\OpenAISettings.cs",
+              "RelativeToolTip": "Models\\OpenAISettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:53:34.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conversation.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\Models\\Conversation.cs",
+              "RelativeDocumentMoniker": "Models\\Conversation.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\Models\\Conversation.cs",
+              "RelativeToolTip": "Models\\Conversation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:14:02.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\Models\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "Models\\ChatMessage.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\ChatHistoryDemo\\Models\\ChatMessage.cs",
+              "RelativeToolTip": "Models\\ChatMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:30:47.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Interns_Repo\\Interns-BE\\Vishal\\piplelineDemo\\Demo_WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA45A63-A90A-4273-9203-9CC5B9D66893}|Demo_WebApplication1.csproj|c:\\interns_repo\\interns-be\\vishal\\piplelinedemo\\demo_webapplication1\\yaml\\pipleline\\azure.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CDA45A63-A90A-4273-9203-9CC5B9D66893}|Demo_WebApplication1.csproj|solutionrelative:yaml\\pipleline\\azure.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA45A63-A90A-4273-9203-9CC5B9D66893}|Demo_WebApplication1.csproj|c:\\interns_repo\\interns-be\\vishal\\piplelinedemo\\demo_webapplication1\\yaml\\infrastructure\\resource.parameters.dev.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDA45A63-A90A-4273-9203-9CC5B9D66893}|Demo_WebApplication1.csproj|solutionrelative:yaml\\infrastructure\\resource.parameters.dev.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA45A63-A90A-4273-9203-9CC5B9D66893}|Demo_WebApplication1.csproj|c:\\interns_repo\\interns-be\\vishal\\piplelinedemo\\demo_webapplication1\\yaml\\infrastructure\\resource.bicep||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CDA45A63-A90A-4273-9203-9CC5B9D66893}|Demo_WebApplication1.csproj|solutionrelative:yaml\\infrastructure\\resource.bicep||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA45A63-A90A-4273-9203-9CC5B9D66893}|Demo_WebApplication1.csproj|c:\\interns_repo\\interns-be\\vishal\\piplelinedemo\\demo_webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDA45A63-A90A-4273-9203-9CC5B9D66893}|Demo_WebApplication1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA45A63-A90A-4273-9203-9CC5B9D66893}|Demo_WebApplication1.csproj|c:\\interns_repo\\interns-be\\vishal\\piplelinedemo\\demo_webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA45A63-A90A-4273-9203-9CC5B9D66893}|Demo_WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA45A63-A90A-4273-9203-9CC5B9D66893}|Demo_WebApplication1.csproj|c:\\interns_repo\\interns-be\\vishal\\piplelinedemo\\demo_webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA45A63-A90A-4273-9203-9CC5B9D66893}|Demo_WebApplication1.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA45A63-A90A-4273-9203-9CC5B9D66893}|Demo_WebApplication1.csproj|c:\\interns_repo\\interns-be\\vishal\\piplelinedemo\\demo_webapplication1\\demo_webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CDA45A63-A90A-4273-9203-9CC5B9D66893}|Demo_WebApplication1.csproj|solutionrelative:demo_webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "azure.yml",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\piplelineDemo\\Demo_WebApplication1\\yaml\\pipleline\\azure.yml",
+              "RelativeDocumentMoniker": "yaml\\pipleline\\azure.yml",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\piplelineDemo\\Demo_WebApplication1\\yaml\\pipleline\\azure.yml",
+              "RelativeToolTip": "yaml\\pipleline\\azure.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-13T17:42:51.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "resource.parameters.dev.json",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\piplelineDemo\\Demo_WebApplication1\\yaml\\Infrastructure\\resource.parameters.dev.json",
+              "RelativeDocumentMoniker": "yaml\\Infrastructure\\resource.parameters.dev.json",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\piplelineDemo\\Demo_WebApplication1\\yaml\\Infrastructure\\resource.parameters.dev.json",
+              "RelativeToolTip": "yaml\\Infrastructure\\resource.parameters.dev.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T17:42:20.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Demo_WebApplication1",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\piplelineDemo\\Demo_WebApplication1\\Demo_WebApplication1.csproj",
+              "RelativeDocumentMoniker": "Demo_WebApplication1.csproj",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\piplelineDemo\\Demo_WebApplication1\\Demo_WebApplication1.csproj",
+              "RelativeToolTip": "Demo_WebApplication1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-13T17:41:35.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "resource.bicep",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\piplelineDemo\\Demo_WebApplication1\\yaml\\Infrastructure\\resource.bicep",
+              "RelativeDocumentMoniker": "yaml\\Infrastructure\\resource.bicep",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\piplelineDemo\\Demo_WebApplication1\\yaml\\Infrastructure\\resource.bicep",
+              "RelativeToolTip": "yaml\\Infrastructure\\resource.bicep",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2024-08-13T17:36:47.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\piplelineDemo\\Demo_WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\piplelineDemo\\Demo_WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T09:40:41.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\piplelineDemo\\Demo_WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\piplelineDemo\\Demo_WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:39:02.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Interns_Repo\\Interns-BE\\Vishal\\piplelineDemo\\Demo_WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Interns_Repo\\Interns-BE\\Vishal\\piplelineDemo\\Demo_WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:32:09.393Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 167,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
